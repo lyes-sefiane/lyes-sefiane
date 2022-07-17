@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hi there!+It's+Lyes!;I'm+a+Java+Software+Developer...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hi there!+It's+Lyes!;I'm+a+Java+Software+Developer)](https://git.io/typing-svg)
 
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=lyes-s.lyes-s)
 
