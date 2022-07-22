@@ -2,7 +2,9 @@
 
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=lyes-s.lyes-s)
 
-<h3> Here's some fun facts about me: </h3>
+<h3>Welcome to my world !</h3>
+
+Here's some fun facts about me:
 
 - 🔭 I’m a Java Software Developer
 - 🌱 I’m always learning Microservices Design, Development & Deployment
