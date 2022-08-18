@@ -6,9 +6,9 @@
 
 Here's some fun facts about me:
 
-- 🔭 I’m a Java Software Developer
-- 🌱 I’m always learning Microservices Design, Development & Deployment
-- 💬 Ask me about Spring boot, Java, Docker, Microservices, and Software Development
+- 🔭 I’m a Java Software Developer ☕.
+- 🌱 I’m always learning Microservices Software Design, Development & Deployment.
+- 💬 Ask me about : NONE.
 
 ### GitHub Stats
 ![lyes-s GitHub stats](https://github-readme-stats.vercel.app/api?username=lyes-s&show_icons=true&theme=radical)
