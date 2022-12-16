@@ -6,9 +6,12 @@
 
 Here's some fun facts about me:
 
-- 🔭 I’m a Java Software Developer ☕.
-- 🌱 I’m always learning Microservices Software Design, Development & Deployment.
-- 💬 Ask me about : Java 8+, Spring Boot 2+, Maven, JUnit, Git, UML, PostgreSQL.
+- 🌟 I have interest to working w/ Networking/Telecom companies as Full Time Employee 🤩. 
+- ✨ I have an interest to building Networking Solutions 🕸.
+- 🔭 I 💘 Java ☕️. 
+- 🌱 I’m always learning to design, develop, deploy distributed systems at scale 🚀.
+- 🎯 I'm always learning the best practices, and how to lead engineering teams for success 🎇.
+- 💬 Java 8+, Spring Boot 2+, Maven, JUnit, Git, UML, Redis, MongoDB, PostgreSQL, Docker 🔥.
 
 ### GitHub Stats
 ![lyes-s GitHub stats](https://github-readme-stats.vercel.app/api?username=lyes-s&show_icons=true&theme=radical)
