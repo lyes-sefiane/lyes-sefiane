@@ -7,7 +7,7 @@
 Here's some fun facts about me:
 
 - 🌟 I have interest to working w/ Networking/Telecom companies as Full Time Employee 🤩. 
-- ✨ I have an interest to building Networking Solutions 🕸.
+- ✨ I have an interest in building Networking Solutions 🕸.
 - 🔭 I 💘 Java ☕️ & Spring Boot 🗽. 
 - 🌱 I’m always learning to design, develop, deploy distributed systems at scale 🚀.
 - 🎯 I'm always learning the best practices, and how to lead engineering teams for success 🎇.
