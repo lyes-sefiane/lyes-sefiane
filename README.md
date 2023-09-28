@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=lyes-s.lyes-s)
+![](https://komarev.com/ghpvc/?username=lyes-s&color=green)
 
 <h3>Welcome to my world !</h3>
 
