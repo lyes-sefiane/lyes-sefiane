@@ -21,7 +21,7 @@ Here's some fun facts about me:
 - ➷  I have experiences working with remote teams in different time zones (Canada, USA, UK, India) 🔱.
 - 🎯 I apply the best practices, and lead engineering teams for success 🎇.
 - 🌱 I’m always learning to design, develop, deploy distributed systems at scale 🚀.
-- 💬 Java 8+, Spring Boot 2+, Maven, JUnit, Git, UML, Redis, MongoDB, PostgreSQL, Docker 🔥.
+- 💬 Java 8+, Spring Boot 2+, Maven, JUnit, Git, UML, Redis, MongoDB, PostgreSQL, Docker & Beyond 🔥.
 
 
 ### GitHub Stats / Top Languages
