@@ -2,6 +2,13 @@
 
 ![](https://komarev.com/ghpvc/?username=lyes-s&color=green)
 
+
+### 🏆 Github Profile Trophy
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=lyes-s&column=8&theme=darkhub&no-frame=true"/>
+</a>
+
 <h3>Welcome to my world !</h3>
 
 Here's some fun facts about me:
@@ -11,14 +18,10 @@ Here's some fun facts about me:
 - 🎯 I'm always learning the best practices, and how to lead engineering teams for success 🎇.
 - 💬 Java 8+, Spring Boot 2+, Maven, JUnit, Git, UML, Redis, MongoDB, PostgreSQL, Docker 🔥.
 
-### GitHub Stats
-![lyes-s GitHub stats](https://github-readme-stats.vercel.app/api?username=lyes-s&show_icons=true&theme=radical)
 
-### GitHub Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lyes-s&theme=radical)](https://git.io/streak-stats)
+### GitHub Stats / Top Languages
 
-### GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=lyes-s)](https://github.com/ryo-ma/github-profile-trophy)
-
-### Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyes-s&show_icons=true&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=lyes-s&show_icons=true&theme=radical" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyes-s&show_icons=true&layout=compact&theme=radical" />
+</div>
