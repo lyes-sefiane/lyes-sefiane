@@ -2,7 +2,7 @@
 
 I'm Lyes Sefiane. Yup 😁, The One & Only One 🧐. 
 
-Do not hesitate to reach ou to me or [connect](#contact) with me in <a href="https://ca.linkedin.com/in/lyes-sefiane">
+Do not hesitate to reach ou to me or connect with me in <a href="https://ca.linkedin.com/in/lyes-sefiane">
 <img alt="Lyes Sefiane on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />.</a>
 
 
