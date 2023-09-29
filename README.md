@@ -1,35 +1,37 @@
-## Hi there 👋 !  ![](https://komarev.com/ghpvc/?username=lyes-s&color=green)
+### Hi there 👋 !  ![](https://komarev.com/ghpvc/?username=lyes-s&color=green)
 
-I'm Lyes Sefiane. Yup 😁, The One & Only One 🧐. 
+I'm Lyes Sefiane. Yup 😁, The One & Only One 😉. 
 
 Do not hesitate to reach out to me or connect with me in <a href="https://ca.linkedin.com/in/lyes-sefiane">
 <img alt="Lyes Sefiane on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />.</a>
 
 
-## 🏆 Github Profile Trophy
+### 🏆 Github Profile Trophy
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=lyes-s&column=8&theme=darkhub&no-frame=true"/>
 </a>
 
-<h2>Welcome to my world ! 🥳</h2>
+<h3>Welcome to my world ! 🥳</h3>
 
 Here's some fun facts about me:
 
-- 🔭 I 💘 Java ☕️ & Spring Boot 🗽. 
+- 💘 I have 5+ years’ experience as a Software Developer, developing applications with Java ☕️ & Spring Boot 🗽. 
+- 🔭 I have 1+ year leading software development and delivery in Agile/Scrum environment.
+- ➷  I have experiences working with remote teams in different time zones (Canada, USA, UK, India).
+- 🎯 I'm apply the best practices, and lead engineering teams for success 🎇.
 - 🌱 I’m always learning to design, develop, deploy distributed systems at scale 🚀.
-- 🎯 I'm always learning the best practices, and how to lead engineering teams for success 🎇.
 - 💬 Java 8+, Spring Boot 2+, Maven, JUnit, Git, UML, Redis, MongoDB, PostgreSQL, Docker 🔥.
 
 
-## GitHub Stats / Top Languages
+### GitHub Stats / Top Languages
 
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=lyes-s&show_icons=true&theme=radical" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyes-s&show_icons=true&layout=compact&theme=radical" />
 </div>
 
-## 🛠 Technology Stack
+### 🛠 Technology Stack
 
 ![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
