@@ -1,16 +1,13 @@
 ### Hi there 👋 !  ![](https://komarev.com/ghpvc/?username=lyes-s&color=green)
 
-I'm Lyes Sefiane. Yup 😁, The One & Only One 😉. 
+I'm Lyes Sefiane. Yup 😁, The One & Only One 👆. 
 
-Do not hesitate to reach out to me or connect with me in <a href="https://ca.linkedin.com/in/lyes-sefiane">
-<img alt="Lyes Sefiane on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />.</a>
+Do not hesitate to reach out to me or connect with me in [LinkedIn](https://ca.linkedin.com/in/lyes-sefiane).
 
 
 ### 🏆 Github Profile Trophy
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=lyes-s&column=8&theme=darkhub&no-frame=true"/>
-</a>
+[![trophy](https://github-profile-trophy.vercel.app/?username=lyes-s&theme=onedark&column=8&theme=darkhub&no-frame=true)](https://github.com/lyes-s/github-profile-trophy)
 
 <h3>Welcome to my world ! 🥳</h3>
 
@@ -45,3 +42,10 @@ Here's some fun facts about me:
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![CircleCI](https://img.shields.io/badge/circle%20ci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white)
+
+
+### Contact
+
+<a href="https://ca.linkedin.com/in/lyes-sefiane">
+  <img alt="Lyes Sefiane on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
