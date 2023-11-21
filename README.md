@@ -1,6 +1,6 @@
 ### Hi there 👋 !  ![](https://komarev.com/ghpvc/?username=lyes-s&color=green)
 
-I'm Lyes Sefiane (from Ottawa, Ontario, Canada). Yup 😁, The One & Only One 👆. 
+I'm Lyes Sefiane from Canada (Ottawa, Ontario). Yup 😁, The One & Only One 👆. 
 
 Do not hesitate to reach out to me or connect with me in [LinkedIn](https://ca.linkedin.com/in/lyes-sefiane).
 
