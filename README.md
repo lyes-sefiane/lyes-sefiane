@@ -1,6 +1,6 @@
 ### Hi there 👋 !  ![](https://komarev.com/ghpvc/?username=lyes-s&color=green)
 
-I'm Lyes Sefiane from Canada (Ottawa, Ontario). Yup 😁, The One & Only One 👆. 
+I'm Lyes Sefiane from Canada (Ottawa, Ontario). Yup 😁, The One and Only One 👆. 
 
 Do not hesitate to reach out to me or connect with me in [LinkedIn](https://ca.linkedin.com/in/lyes-sefiane).
 
@@ -13,12 +13,12 @@ Do not hesitate to reach out to me or connect with me in [LinkedIn](https://ca.l
 
 Here's some fun facts about me:
 
-- 💘 I have 5+ years’ experience as a Software Developer, developing applications with Java ☕️ & Spring Boot 🗽. 
-- 🔭 I have 1+ year leading software development and delivery in Agile/Scrum environment 📩.
+- 💘 I have 6+ years’ experience as a Software Developer, developing applications with Java ☕️ and Spring Boot 🗽. 
+- 🔭 I have 2+ year leading software development and delivery in Agile/Scrum environment 📩.
 - 🎯 I apply the best practices to lead engineering teams for success 🎇.
 - ➷  I have experiences working with remote teams in different time zones (Canada, USA, UK, India) 🔱.
 - 🌱 I’m always learning to design, develop, deploy distributed systems at scale 🚀.
-- 💬 Java 8+, Spring Boot 2+, Maven, JUnit, Git, UML, Redis, MongoDB, PostgreSQL, Docker & Beyond 🔥.
+- 💬 Java 8+, Spring Boot 2+, Maven, JUnit, Git, UML, Redis, MongoDB, PostgreSQL, Docker and Beyond 🔥.
 
 
 ### GitHub Stats / Top Languages
