@@ -13,8 +13,7 @@ Do not hesitate to reach out to me or connect with me in [LinkedIn](https://ca.l
 
 Here's some fun facts about me:
 
-- 💘 I have 6+ years’ experience as a Software Developer, developing applications with Java ☕️ and Spring Boot 🗽. 
-- 🔭 I have 2+ year leading software development and delivery in Agile/Scrum environment 📩.
+- 💘 I have 5+ years’ experience as a Software Developer/Engineer 3 developing applications with Java ☕️ and Spring Boot 🗽 (including 2+ year leading software development and delivery in Agile/Scrum environment 📩).
 - 🎯 I apply the best practices to lead engineering teams for success 🎇.
 - ➷  I have experiences working with remote teams in different time zones (Canada, USA, UK, India) 🔱.
 - 🌱 I’m always learning to design, develop, deploy distributed systems at scale 🚀.
