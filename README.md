@@ -1,23 +1,17 @@
-### Hi there 👋 !  ![](https://komarev.com/ghpvc/?username=lyes-s&color=green)
+![](https://komarev.com/ghpvc/?username=lyes-s&color=green)
 
-I'm Lyes Sefiane from Canada (Ottawa, Ontario). Yup 😁, The One and Only One 👆. 
-
-Do not hesitate to reach out to me or connect with me in [LinkedIn](https://ca.linkedin.com/in/lyes-sefiane).
-
-
-### 🏆 Github Profile Trophy
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=lyes-s&theme=onedark&column=8&theme=darkhub&no-frame=true)](https://github.com/lyes-s/github-profile-trophy)
-
-<h3>Welcome to my world ! 🥳</h3>
-
-Here's some fun facts about me:
+<h3>Welcome to my world ! 🥳</h3> 
 
 - 💘 I have 8+ years’ experience as a Software Developer/Engineer 3 developing applications with Java ☕️ and Spring Boot 🗽 (including 2+ year leading software development and delivery in Agile/Scrum environment 📩).
 - 🎯 I apply the best practices to lead engineering teams for success 🎇.
 - ➷  I have experiences working with remote teams in different time zones (Canada, USA, UK, India) 🔱.
 - 🌱 I’m always learning to design, develop, deploy distributed systems at scale 🚀.
 - 💬 Java 8+, Spring Boot 2+, Maven, JUnit, Git, UML, Redis, MongoDB, PostgreSQL, Docker and Beyond 🔥.
+
+
+### 🏆 Github Profile Trophy
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=lyes-s&theme=onedark&column=8&theme=darkhub&no-frame=true)](https://github.com/lyes-s/github-profile-trophy)
 
 
 ### GitHub Stats / Top Languages
