@@ -1,10 +1,12 @@
+<link rel="steylsheet" href="css/main.css">
+
 <div>
   <img align="center" src="images/lyes-sefiane-banner.PNG" />
 </div>
 
 ### Contact
 
- <table style="border:none; border-collapse:collapse; cellspacing:0; cellpadding:0">
+ <table>
   <tr>
     <td>
         <a href="https://www.linkedin.com/in/lyes-sefiane">

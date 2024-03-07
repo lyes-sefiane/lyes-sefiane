@@ -1,0 +1,6 @@
+table tr td {
+    border: none !important;
+    border-collapse: collapse;
+    border-style: none;
+    border-collapse:collapse; 
+}
