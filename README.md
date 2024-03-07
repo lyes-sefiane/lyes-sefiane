@@ -4,7 +4,7 @@
 
 ### Contact
 
- <table border="0">
+ <table style="border:none;">
   <tr>
     <td>
         <a href="https://www.linkedin.com/in/lyes-sefiane">
