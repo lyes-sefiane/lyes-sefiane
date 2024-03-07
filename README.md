@@ -11,19 +11,25 @@
 
 ### Contact
 
-<div class="inLine">
-        <a class="imgs" href="https://www.linkedin.com/in/lyes-sefiane">
+ <table>
+  <tr>
+    <td>
+        <a href="https://www.linkedin.com/in/lyes-sefiane">
             <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
         </a>
-        <a class="imgs" href="https://lyes-sefiane.web.app/">
+    </td>
+    <td>
+        <a href="https://lyes-sefiane.web.app/">
             <img height="31" alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
         </a>
-      <a class="imgs" href="https://komarev.com/ghpvc/?username=lyes-s&color=green&style=for-the-badge">
+    </td>
+    <td>
+      <a href="https://komarev.com/ghpvc/?username=lyes-s&color=green&style=for-the-badge">
           <img src="https://komarev.com/ghpvc/?username=lyes-s&color=green&style=for-the-badge" />
-      </a>       
-</div>
-
-<br/><br/>
+      </a>
+    </td>
+  </tr>
+</table> 
 
 <h3><a href="https://www.indeed.com/career-advice/finding-a-job/engineer-level">Software Engineer 3 𓂀</a> | Professional Profile</h3>
 
