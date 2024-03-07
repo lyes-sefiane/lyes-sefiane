@@ -4,3 +4,13 @@ table tr td {
     border-style: none;
     border-collapse:collapse; 
 }
+
+.inLine {
+    align-items: center; 
+    float: left;
+  }
+
+.imgs{
+    float: left;
+    padding: 5px;
+}

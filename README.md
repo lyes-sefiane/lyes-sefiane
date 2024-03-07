@@ -1,4 +1,9 @@
-<link rel="steylsheet" href="css/main.css">
+<!--
+  Title: Lyes Sefiane | Software Engineer 3 𓂀 | Professional Profile
+  Description: Java | Spring Boot | Docker | Microservices | Agile Methodologies | Software Development Management
+  Author: Lyes Sefiane
+  -->
+<link href="css/main.css" rel="stylesheet"></link>
 
 <div>
   <img align="center" src="images/lyes-sefiane-banner.PNG" />
@@ -6,44 +11,36 @@
 
 ### Contact
 
- <table>
-  <tr>
-    <td>
-        <a href="https://www.linkedin.com/in/lyes-sefiane">
+<div class="inLine">
+        <a class="imgs" href="https://www.linkedin.com/in/lyes-sefiane">
             <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
         </a>
-    </td>
-    <td>
-        <a href="https://lyes-sefiane.web.app/">
+        <a class="imgs" href="https://lyes-sefiane.web.app/">
             <img height="31" alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
         </a>
-    </td>
-    <td>
-      <a href="https://komarev.com/ghpvc/?username=lyes-s&color=green&style=for-the-badge">
+      <a class="imgs" href="https://komarev.com/ghpvc/?username=lyes-s&color=green&style=for-the-badge">
           <img src="https://komarev.com/ghpvc/?username=lyes-s&color=green&style=for-the-badge" />
-      </a>
-    </td>
-  </tr>
-</table> 
+      </a>       
+</div>
 
-<h3>Professional Profile | <a href="https://www.indeed.com/career-advice/finding-a-job/engineer-level">Software Engineer 3 𓂀</a></h3>
+<br/><br/>
 
-<ul>
-  <li>8+ year's experience as a Java Software Developer and/or Software Engineer 3 developing applications with Java 8+ and Spring Boot 2+ framework.</li>
-  <li>3 years's experience Leading the Software Development and Delivery using Agile Methodologies.</li>
-  <li>Extensive hands-on building and designing RESTful Web Services with Spring (Boot 2+, Data JPA 2+), JUnit, Redis, PostgreSQL, MongoDB, Docker, Postman, Openapi/Swagger.</li>
-  <li>Experience with object oriented analysis and design.</li>
-  <li>Experience in use of standard SCM tools (Git) and build automation tools (Maven).</li>
-  <li>Experience working with remote teams in different time zones (Canada, USA, UK, India).</li>
-  <li>Hands-on building Cloud Native applications using event driven microservices applications with Apache Kafka.</li>
-  <li>Hands-on DevOps practices (automation and continuous delivery) using GitHub Actions, CircleCi, Snyk, SonarQube, DockerHub, Firebase.</li>
-  <li>Experience developing Optical Networking Solutions at Ciena.</li>
-  <li>Ability to work and/or communicate with teams beyond my immediate group.</li>
-  <li>Ability to "think in code" and discuss ideas and algorithms.</li>
-  <li>Strong motivation to improve product experience.</li>
-  <li>Strong motivation to improve product experience.</li>
-  <li>Follows development best practices, code reviews and code quality.</li>
-</ul>
+<h3><a href="https://www.indeed.com/career-advice/finding-a-job/engineer-level">Software Engineer 3 𓂀</a> | Professional Profile</h3>
+
+- 8+ year's experience as a Java Software Developer and/or Software Engineer 3 developing applications with Java 8+ and Spring Boot 2+ framework.
+- 3 years's experience Leading the Software Development and Delivery using Agile Methodologies.
+- Extensive hands-on building and designing RESTful Web Services with Spring (Boot 2+, Data JPA 2+), JUnit, Redis, PostgreSQL, MongoDB, Docker, Postman, Openapi/Swagger.
+- Experience with object oriented analysis and design.
+- Experience in use of standard SCM tools (Git) and build automation tools (Maven).
+- Experience working with remote teams in different time zones (Canada, USA, UK, India).
+- Hands-on building Cloud Native applications using event driven microservices applications with Apache Kafka.
+- Hands-on DevOps practices (automation and continuous delivery) using GitHub Actions, CircleCi, Snyk, SonarQube, DockerHub, Firebase.
+- Experience developing Optical Networking Solutions at Ciena.
+- Ability to work and/or communicate with teams beyond my immediate group.
+- Ability to "think in code" and discuss ideas and algorithms.
+- Strong motivation to improve product experience.
+- Strong motivation to improve product experience.
+- Follows development best practices, code reviews and code quality.
 
 
 ### 🏆 Github Profile Trophy
