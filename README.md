@@ -14,24 +14,24 @@
  <table>
   <tr>
     <td>
-        <a href="https://www.linkedin.com/in/lyes-sefiane">
-            <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-        </a>
-    </td>
-    <td>
         <a href="https://lyes-sefiane.web.app/">
             <img height="31" alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
         </a>
-    </td>
+    </td>    
     <td>
       <a href="https://komarev.com/ghpvc/?username=lyes-s&color=green&style=for-the-badge">
           <img src="https://komarev.com/ghpvc/?username=lyes-s&color=green&style=for-the-badge" />
       </a>
     </td>
+    <td>
+        <a href="https://www.linkedin.com/in/lyes-sefiane">
+            <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+        </a>
+    </td>
   </tr>
 </table> 
 
-<h3><a href="https://www.indeed.com/career-advice/finding-a-job/engineer-level">Software Engineer 3 𓂀</a> | Professional Profile</h3>
+## Software Engineer 3 𓂀 | Professional Profile
 
 - 8+ year's experience as a Java Software Developer and/or Software Engineer 3 developing applications with Java 8+ and Spring Boot 2+ framework.
 - 3 years's experience Leading the Software Development and Delivery using Agile Methodologies.
@@ -49,19 +49,19 @@
 - Follows development best practices, code reviews and code quality.
 
 
-### 🏆 Github Profile Trophy
+## 🏆 Github Profile Trophy
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=lyes-s&theme=onedark&column=8&theme=darkhub&no-frame=true)](https://github.com/lyes-s/github-profile-trophy)
 
 
-### GitHub Stats / Top Languages
+## GitHub Stats / Top Languages
 
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=lyes-s&show_icons=true&theme=radical" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyes-s&show_icons=true&layout=compact&theme=radical" />
 </div>
 
-### 🛠 Technology Stack
+## 🛠 Technology Stack
 
 ![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -96,3 +96,11 @@
 ![GNU Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D4.svg?style=for-the-badge&logo=Windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black)
+
+## Interests
+- Managing and leading the software development and delivery team(s) with AgileMethodologies.
+- Building cloud-native microservices applications using containers (i.e. Docker etc...).
+- Building event driven applications using producer/consumer architecture with Apache Kafka.
+
+## Career Advancement Goal
+- <a href="https://www.indeed.com/career-advice/finding-a-job/how-to-become-software-development-manager"> Software Development/Engineering Manager.</a>
