@@ -14,19 +14,19 @@
  <table>
   <tr>
     <td>
-        <a href="https://www.linkedin.com/in/lyes-sefiane">
-            <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-        </a>
-    </td>
-    <td>
         <a href="https://lyes-sefiane.web.app/">
             <img height="31" alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
         </a>
-    </td>
+    </td>    
     <td>
       <a href="https://komarev.com/ghpvc/?username=lyes-s&color=green&style=for-the-badge">
           <img src="https://komarev.com/ghpvc/?username=lyes-s&color=green&style=for-the-badge" />
       </a>
+    </td>
+    <td>
+        <a href="https://www.linkedin.com/in/lyes-sefiane">
+            <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+        </a>
     </td>
   </tr>
 </table> 
@@ -101,3 +101,6 @@
 - Managing and leading the software development and delivery team(s) with AgileMethodologies.
 - Building cloud-native microservices applications using containers (i.e. Docker etc...).
 - Building event driven applications using producer/consumer architecture with Apache Kafka.
+
+## Career Advancement Goal
+- <a href="https://www.indeed.com/career-advice/finding-a-job/how-to-become-software-development-manager"> Software Development/Engineering Manager.</a>
