@@ -33,7 +33,7 @@
 
 ## Software Engineer 3 𓂀 | Professional Profile
 
-- 8+ year's experience as a Java Software Developer and/or Software Engineer 3 developing applications with Java 8+ and Spring Boot 2+ framework.
+- 8+ year's experience as Software Engineer 3 developing applications with Java 8+ and Spring Boot 2+ framework.
 - 3 years's experience Leading the Software Development and Delivery using Agile Methodologies.
 - Extensive hands-on building and designing RESTful Web Services with Spring (Boot 2+, Data JPA 2+), JUnit, Redis, PostgreSQL, MongoDB, Docker, Postman, Openapi/Swagger.
 - Experience with object oriented analysis and design.
