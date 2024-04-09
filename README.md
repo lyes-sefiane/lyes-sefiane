@@ -35,7 +35,7 @@
 
 - 8+ year's experience as Software Engineer 3 developing applications with Java 8+ and Spring Boot 2+ framework.
 - 3 years's experience Leading the Software Development and Delivery using Agile Methodologies.
-- Extensive hands-on building and designing RESTful Web Services with Spring (Boot 2+, Data JPA 2+), JUnit, Redis, PostgreSQL, MongoDB, Docker, Postman, Openapi/Swagger.
+- Experience building and designing RESTful Web Services with Spring (Boot 2+, Data JPA 2+), JUnit, Redis, PostgreSQL, MongoDB, Docker, Postman, Openapi/Swagger.
 - Experience with object oriented analysis and design.
 - Experience in use of standard SCM tools (Git) and build automation tools (Maven).
 - Experience working with remote teams in different time zones (Canada, USA, UK, India).
