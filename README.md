@@ -31,6 +31,9 @@
   </tr>
 </table> 
 
+## Career Advancement Goal
+- Senior Manager, Software Engineering.
+
 ## Software Engineer 3 𓂀 | Professional Profile
 
 - 8+ year's experience as Software Engineer 3 developing applications with Java 8+ and Spring Boot 2+ framework.
@@ -101,9 +104,6 @@
 - Managing and leading the software development and delivery team(s) with AgileMethodologies.
 - Building cloud-native microservices applications using containers (i.e. Docker etc...).
 - Building event driven applications using producer/consumer architecture with Apache Kafka.
-
-## Career Advancement Goal
-- <a href="https://www.indeed.com/career-advice/finding-a-job/how-to-become-software-development-manager"> Software Development/Engineering Manager.</a>
 
 ## License
 
