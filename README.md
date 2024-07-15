@@ -31,9 +31,6 @@
   </tr>
 </table> 
 
-## Career Advancement Goal
-- Senior Manager, Software Engineering.
-
 ## Software Engineer 3 𓂀 | Professional Profile
 
 - 8+ year's experience as Software Engineer 3 developing applications with Java 8+ and Spring Boot 2+ framework.
