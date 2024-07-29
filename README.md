@@ -6,7 +6,7 @@
 <link href="css/main.css" rel="stylesheet"></link>
 
 <div>
-  <img align="center" src="images/lyes-sefiane-banner.PNG" />
+  <img align="center" src="images/lyes-sefiane-banner-1.PNG" />
 </div>
 
 ### Contact
