@@ -36,17 +36,10 @@
 - 8+ year's experience as Software Engineer 3 developing applications with Java 8+ and Spring Boot 2+ framework.
 - 3 years's experience Leading the Software Development and Delivery using Agile Methodologies.
 - Experience building and designing RESTful Web Services with Spring (Boot 2+, Data JPA 2+), JUnit, Redis, PostgreSQL, MongoDB, Docker, Postman, Openapi/Swagger.
-- Experience with object oriented analysis and design.
 - Experience in use of standard SCM tools (Git) and build automation tools (Maven).
 - Experience working with remote teams in different time zones (Canada, USA, UK, India).
-- Hands-on building Cloud Native applications using event driven microservices applications with Apache Kafka.
+- Experience building Cloud Native applications using event driven microservices applications with Apache Kafka.
 - Hands-on DevOps practices (automation and continuous delivery) using GitHub Actions, CircleCi, Snyk, SonarQube, DockerHub, Firebase.
-- Experience developing Optical Networking Solutions at Ciena.
-- Ability to work and/or communicate with teams beyond my immediate group.
-- Ability to "think in code" and discuss ideas and algorithms.
-- Strong motivation to improve product experience.
-- Strong motivation to improve product experience.
-- Follows development best practices, code reviews and code quality.
 
 
 ## 🏆 Github Profile Trophy
