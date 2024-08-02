@@ -41,7 +41,6 @@
 - Experience building Cloud Native applications using event driven microservices applications with Apache Kafka.
 - Hands-on DevOps practices (automation and continuous delivery) using GitHub Actions, CircleCi, Snyk, SonarQube, DockerHub, Firebase.
 
-
 ## 🏆 Github Profile Trophy
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=lyes-s&theme=onedark&column=8&theme=darkhub&no-frame=true)](https://github.com/lyes-s/github-profile-trophy)
