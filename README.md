@@ -90,7 +90,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black)
 
 ## Interests
-- Managing and leading the software development and delivery team(s) with AgileMethodologies.
+- Managing and leading the software development and delivery team(s) with the Agile Scrum methodology.
 - Building cloud-native microservices applications using containers (i.e. Docker etc...).
 - Building event driven applications using producer/consumer architecture with Apache Kafka.
 
