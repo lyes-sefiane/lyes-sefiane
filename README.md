@@ -9,30 +9,12 @@
   <img align="center" src="images/lyes-sefiane-banner-1.PNG" />
 </div>
 
-### Contact
 
- <table>
-  <tr>
-    <td>
-        <a href="https://lyes-sefiane.web.app/">
-            <img height="31" alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
-        </a>
-    </td>    
-    <td>
-      <a href="https://komarev.com/ghpvc/?username=lyes-s&color=green&style=for-the-badge">
-          <img src="https://komarev.com/ghpvc/?username=lyes-s&color=green&style=for-the-badge" />
-      </a>
-    </td>
-    <td>
-        <a href="https://www.linkedin.com/in/lyes-sefiane">
-            <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-        </a>
-    </td>
-  </tr>
-</table> 
+## About Me
+
+My name is Lyes Sefiane, <a href="https://aceproject.org/ero-en/regions/africa/DZ/algeria-constitution-with-the-amendments-of-10">Algerian Citizen Native</a> 🇩🇿 and <a href="https://publications.gc.ca/Collection-R/LoPBdP/BP/bp445-e.htm#C.%20Citizenship%20by%20Naturalization(txt)">Canadian Citizen by Naturalization</a> 🇨🇦, <a href="https://hiring.monster.com/resources/job-descriptions/computer/senior-software-engineer/">Software Engineer 3 𓂀</a> with more than <strong>8 years experience</strong> developing applications mainly with <strong>Java Ecosystem</strong> (Java 8 +, Spring Boot 2+, Spring Data JPA 2+, Spring Data Redis +2, Spring MongoDB, JUnit), PostgreSQL, Redis, MongoDB, Docker, Postman, Openapi/Swagger, RESTful Webservices, Agile Scrum methodology. Please refer to my <a href="https://www.linkedin.com/in/lyes-sefiane">LinkedIn</a> and <a href="https://github.com/lyes-s">GitHub</a> profiles for more information.
 
 ## Software Engineer 3 𓂀 | Professional Profile
-
 - 8+ year's experience as Software Engineer 3 developing applications with Java 8+ and Spring Boot 2+ framework.
 - 3 years's experience Leading the Software Development and Delivery using Agile Methodologies.
 - Experience building and designing RESTful Web Services with Spring (Boot 2+, Data JPA 2+), JUnit, Redis, PostgreSQL, MongoDB, Docker, Postman, Openapi/Swagger.
@@ -93,6 +75,28 @@
 - Managing and leading the software development and delivery team(s) with the Agile Scrum methodology.
 - Building cloud-native microservices applications using containers (i.e. Docker etc...).
 - Building event driven applications using producer/consumer architecture with Apache Kafka.
+
+## Contact
+
+ <table>
+  <tr>
+    <td>
+        <a href="https://lyes-sefiane.web.app/">
+            <img height="31" alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+        </a>
+    </td>    
+    <td>
+      <a href="https://komarev.com/ghpvc/?username=lyes-s&color=green&style=for-the-badge">
+          <img src="https://komarev.com/ghpvc/?username=lyes-s&color=green&style=for-the-badge" />
+      </a>
+    </td>
+    <td>
+        <a href="https://www.linkedin.com/in/lyes-sefiane">
+            <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+        </a>
+    </td>
+  </tr>
+</table> 
 
 ## License
 
