@@ -25,14 +25,14 @@ My name is Lyes Sefiane, <a href="https://aceproject.org/ero-en/regions/africa/D
 
 ## 🏆 Github Profile Trophy
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=lyes-s&theme=onedark&column=8&theme=darkhub&no-frame=true)](https://github.com/lyes-s/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=lyes-sefiane&theme=onedark&column=8&theme=darkhub&no-frame=true)](https://github.com/lyes-sefiane/github-profile-trophy)
 
 
 ## GitHub Stats / Top Languages
 
 <div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=lyes-s&show_icons=true&theme=radical" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyes-s&show_icons=true&layout=compact&theme=radical" />
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=lyes-sefiane&show_icons=true&theme=radical" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyes-sefiane&show_icons=true&layout=compact&theme=radical" />
 </div>
 
 ## 🛠 Technology Stack
@@ -86,8 +86,8 @@ My name is Lyes Sefiane, <a href="https://aceproject.org/ero-en/regions/africa/D
         </a>
     </td>    
     <td>
-      <a href="https://komarev.com/ghpvc/?username=lyes-s&color=green&style=for-the-badge">
-          <img src="https://komarev.com/ghpvc/?username=lyes-s&color=green&style=for-the-badge" />
+      <a href="https://komarev.com/ghpvc/?username=lyes-sefiane&color=green&style=for-the-badge">
+          <img src="https://komarev.com/ghpvc/?username=lyes-sefiane&color=green&style=for-the-badge" />
       </a>
     </td>
     <td>
