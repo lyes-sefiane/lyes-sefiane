@@ -12,19 +12,9 @@
 
 ## About Me
 
-My name is Lyes Sefiane, <a href="https://aceproject.org/ero-en/regions/africa/DZ/algeria-constitution-with-the-amendments-of-10">Algerian Citizen Native</a> 🇩🇿 and <a href="https://publications.gc.ca/Collection-R/LoPBdP/BP/bp445-e.htm#C.%20Citizenship%20by%20Naturalization(txt)">Canadian Citizen by Naturalization</a> 🇨🇦 with 02 <strong>Master's degrees</strong> from two different Paris universities (<a href="https://www.univ-paris8.fr/">Paris 8 University</a> and <a href="https://dauphine.psl.eu/">Paris Dauphine University</a>) and a <strong>Bachelor's degree</strong> from the <a href="https://www.ummto.dz/">University of Tizi-Ouzou</a> in <a href="https://undergrad.cs.umd.edu/what-computer-science">Computer Science</a> field. <a href="https://hiring.monster.com/resources/job-descriptions/computer/senior-software-engineer/">Software Engineer 3 𓂀</a> with <strong>8+ years experience</strong> designing and developing software using the Java ecosystem such as Java 8+, Spring Framework 5+, JUnit, PostgreSQL, Redis, MongoDB, Docker Products, Postman, Openapi/Swagger to develop Desktop, RESTful Webservices and Microservices applications 
-by applying Agile Scrum methodology. 
+My name is Lyes Sefiane, <a href="https://aceproject.org/ero-en/regions/africa/DZ/algeria-constitution-with-the-amendments-of-10">Algerian Citizen Native</a> 🇩🇿 and <a href="https://publications.gc.ca/Collection-R/LoPBdP/BP/bp445-e.htm#C.%20Citizenship%20by%20Naturalization(txt)">Canadian Citizen by Naturalization</a> 🇨🇦 with 02 <strong>Master's degrees</strong> from two different Paris universities (<a href="https://www.univ-paris8.fr/">Paris 8 University</a> and <a href="https://dauphine.psl.eu/">Paris Dauphine University</a>) and a <strong>Bachelor's degree</strong> from the <a href="https://www.ummto.dz/">University of Tizi-Ouzou</a> in <a href="https://undergrad.cs.umd.edu/what-computer-science">Computer Science</a> field. <a href="https://hiring.monster.com/resources/job-descriptions/computer/senior-software-engineer/">Software Engineer 3 𓂀</a> with <strong>8+ years experience</strong> designing and developing software using the Java ecosystem such as <strong>Java 8+</strong>, <strong>Spring Framework 5+</strong>, <strong>JUnit</strong>, <strong>PostgreSQL</strong>, <strong>Redis</strong>, <strong>MongoDB</strong>, <strong>Docker Products</strong>, <strong>Postman</strong>, <strong>Openapi/Swagger</strong> to develop <strong>Desktop</strong>, <strong>RESTful Webservices</strong> and <strong>Microservices applications</strong> by applying <strong>Agile Scrum methodology</strong>. 
 
 Please refer to my <a href="https://www.linkedin.com/in/lyes-sefiane">LinkedIn</a> and <a href="https://gravatar.com/lyessefiane">Gravatar</a> profiles for more information.
-
-## Software Engineer 3 𓂀 | Professional Profile
-- 8+ year's experience as Software Engineer 3 developing applications with Java 8+ and Spring Boot 2+ framework.
-- 3 years's experience Leading the Software Development and Delivery using Agile Methodologies.
-- Experience building and designing RESTful Web Services with Spring (Boot 2+, Data JPA 2+), JUnit, Redis, PostgreSQL, MongoDB, Docker, Postman, Openapi/Swagger.
-- Experience in use of standard SCM tools (Git) and build automation tools (Maven).
-- Experience working with remote teams in different time zones (Canada, USA, UK, India).
-- Experience building Cloud Native applications using event driven microservices applications with Apache Kafka.
-- Hands-on DevOps practices (automation and continuous delivery) using GitHub Actions, CircleCi, Snyk, SonarQube, DockerHub, Firebase.
 
 ## 🏆 Github Profile Trophy
 
@@ -73,11 +63,6 @@ Please refer to my <a href="https://www.linkedin.com/in/lyes-sefiane">LinkedIn</
 ![GNU Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D4.svg?style=for-the-badge&logo=Windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black)
-
-## Interests
-- Managing and leading the software development and delivery team(s) with the Agile Scrum methodology.
-- Building cloud-native microservices applications using containers (i.e. Docker etc...).
-- Building event driven applications using producer/consumer architecture with Apache Kafka.
 
 ## Contact
 
