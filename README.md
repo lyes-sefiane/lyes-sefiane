@@ -11,12 +11,22 @@
 
 
 ## About Me
-
-Algerian Citizen Native 🇩🇿 and Canadian Citizen by Naturalization 🇨🇦, Graduated from Two Separate Higher Education Institutions in France : PSL Research University ( Dauphine Compus and AgroParisTech ) in 2014 and Paris 8 Vincennes Saint-Denis University in 2012 with 02 Master of Research - MRes in Computer Science ( Cum Laude honor ) after being Graduated from Université Mouloud Mammeri de Tizi-Ouzou ( Algeria ) in 2010 with a Bachelor of Computer Science - BCompSc ( Cum Laude honor ). 
-
-Software Engineer 3 with <strong>8+ years experience</strong> developing software using the Java ecosystem technologies such as <strong>Java 17+</strong>, <strong>Spring Framework 6+</strong>, <strong>JUnit</strong>, <strong>PostgreSQL</strong>, <strong>Redis</strong>, <strong>MongoDB</strong>, <strong>Docker</strong>, <strong>Postman</strong>, <strong>Openapi/Swagger</strong> to develop <strong>Desktop</strong>, <strong>RESTful Webservices</strong> and <strong>Microservices</strong> by applying <strong>Agile Scrum methodology</strong>. 
-
-Please refer to my <a href="https://www.linkedin.com/in/lyes-sefiane">LinkedIn</a> and <a href="https://gravatar.com/lyessefiane">Gravatar</a> profiles for more information.
+<p>Of <a href="https://data.globalcit.eu/NationalDB/docs/Algeria_Loi_No.70-86_ENGLISH.pdf">Algerian Nationality</a> and <a href="https://drive.google.com/file/d/12dh_p6dAjBZSimROL9dcw-bLXMYd6yrV/view?usp=drive_link">Canadian Citizenship</a>, Graduated from Two Separate Higher Education Institutions in France : Grande École et <a href="https://www.dauphine-alumni.org/fr/cv/lyes-sefiane/dauphine/2014">Université Paris Dauphine-PSL</a> ( Dauphine Compus & AgroParisTech ) in 2014 and <a href="https://www.univ-paris8.fr/">Université Paris 8 Vincennes Saint-Denis</a> in 2012 with 02 Master of Research - MRes in Computer Science ( Cum Laude honor ) after being Graduated from <a href="https://www.ummto.dz/">Université Mouloud Mammeri de Tizi-Ouzou</a> ( Algeria ) in 2010 with a Bachelor of Computer Science - BCompSc ( Cum Laude honor ). 
+<p><a href="https://drive.google.com/file/d/1SIaaTBih-idSKoBC-sTD9mzb5eQGWOUQ/view?usp=sharing">Software Engineer 3</a> with <strong>8+ years experience</strong> developing software using the Java ecosystem technologies such as           
+<a href="https://drive.google.com/file/d/1piHjMizqSBvIhxeB9qCPgHAnV3hJtzTM/view?usp=sharing">Java 8+</a>, 
+<a href="https://drive.google.com/file/d/1_hCAitNjtv90Bv1HnrzX3qJGLjMw2M3q/view?usp=sharing">Spring Framework 6+</a>, 
+<a href="https://drive.google.com/file/d/1MAOtte0IFEo5OpzQBQpcGsfksjkNntFV/view?usp=sharing">JUnit</a>, 
+PostgreSQL, 
+<a href="https://drive.google.com/file/d/1E-6fBJNDFexQmiOR23RTjCLeqwoIelsk/view?usp=sharing">Redis</a>, 
+<a href="https://drive.google.com/file/d/13LHbMemnlSewWXcoGg-t8J4cE_L35Run/view?usp=sharing">MongoDB</a>, 
+<a href="https://drive.google.com/file/d/1LKHVj3ZWSXwjdFTVRpPPvKt5920d-3s6/view?usp=sharing">Docker</a>, 
+<a href="https://app.swaggerhub.com/organizations/lyes-sefiane">Openapi/Swagger</a>, 
+to develop
+<a href="https://whatfix.com/blog/desktop-application/">Desktop</a>,
+<a href="https://drive.google.com/file/d/17bJ2TJOIoKYa8ns4kWrjwqM6nv_Spp_1/view?usp=sharing">RESTful Webservices</a>, 
+and <a href="https://microservices.io/">Microservices</a> by applying <a href="https://drive.google.com/file/d/1kZ9n1LEIaIUBzZyyza2tMoxcmlS147_A/view?usp=sharing">Agile Scrum methodology</a>. <br/><br/>  
+  
+Please refer to my <a href="https://ca.linkedin.com/in/lyes-sefiane">LinkedIn</a> and <a href="https://github.com/lyes-sefiane">GitHub</a> profiles for more information.</p></p> 
 
 ## 🏆 Github Profile Trophy
 
