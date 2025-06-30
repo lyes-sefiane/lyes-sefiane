@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Software Engineering Manager. Of Algerian Nationality and Canadian Citizenship, Graduated from Two Separate Higher Education Institutions in France : Grande École and Université Paris Dauphine-PSL ( Dauphine Campus and AgroParisTech ) in 2014 and Université Paris 8 Vincennes Saint-Denis in 2012 with 02 Master's degree in Computer Science ( Cum Laude honor ) after being Graduated from Université Mouloud Mammeri de Tizi-Ouzou ( Algeria ) in 2010 with a Bachelor of Computer Science - BCompSc ( Cum Laude honor ). 8+ years experience developing software using the Java ecosystem technologies such as Java 8+, Spring Framework 5+, JUnit, PostgreSQL, Redis, MongoDB, Docker, Postman, Openapi/Swagger, to develop Desktop, RESTful Webservices, and Microservices by applying Agile Scrum methodology.">
     <meta name="author" content="Lyes SEFIANE">
-    <meta name="google-site-verification" content="googlee74611c70981e86c.html">
+    <meta name="google-site-verification" content="6lf9VPhWhHflMu4S3V96g-GIsTE7pbSRQVnYnGxvBeY" />
     <link rel="canonical" href="https://github.com/lyes-sefiane/lyes-sefiane" title="Lyes SEFIANE - Canada | GitHub">    
     <link href="css/main.css" rel="stylesheet"></link>
   </head>
