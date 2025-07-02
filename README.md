@@ -37,15 +37,17 @@
   Please refer to my <a href="https://ca.linkedin.com/in/lyes-sefiane" target="_blank">LinkedIn</a> and <a href="https://github.com/lyes-sefiane" target="_blank">GitHub</a> profiles for more information.</p></p> 
 
   ## 🏆 Github Profile Trophy
-
-  [![trophy](https://github-profile-trophy.vercel.app/?username=lyes-sefiane&theme=onedark&column=8&theme=darkhub&no-frame=true)](https://github.com/lyes-sefiane/github-profile-trophy)
-
+  <p>
+      <a href="https://github.com/lyes-sefiane/github-profile-trophy">
+          <img src="https://github-profile-trophy.vercel.app/?username=lyes-sefiane&amp;theme=flat&amp;column=8&amp;theme=flat&amp;no-frame=true" alt="trophy">
+      </a>
+  </p>
 
   ## GitHub Stats / Top Languages
 
   <div>
-    <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=lyes-sefiane&show_icons=true&theme=radical" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyes-sefiane&show_icons=true&layout=compact&theme=radical" />
+    <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=lyes-sefiane&show_icons=true&theme=flat" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyes-sefiane&show_icons=true&layout=compact&theme=flat" />
   </div>
 
   ## 🛠 Technology Stack
