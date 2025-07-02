@@ -38,8 +38,8 @@
 
   ## 🏆 Github Profile Trophy
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=lyes-sefiane&theme=flat&column=8&theme=flat&no-frame=true)](https://github.com/lyes-sefiane/github-profile-trophy)
-
+  ![Trophy](https://github-trophies.vercel.app/?username=lyes-sefiane)
+  
   ## GitHub Stats / Top Languages
 
   <div>
