@@ -37,11 +37,8 @@
   Please refer to my <a href="https://ca.linkedin.com/in/lyes-sefiane" target="_blank">LinkedIn</a> and <a href="https://github.com/lyes-sefiane" target="_blank">GitHub</a> profiles for more information.</p></p> 
 
   ## 🏆 Github Profile Trophy
-  <p>
-      <a href="https://github.com/lyes-sefiane/github-profile-trophy">
-          <img src="https://github-profile-trophy.vercel.app/?username=lyes-sefiane&amp;theme=flat&amp;column=8&amp;theme=flat&amp;no-frame=true" alt="trophy">
-      </a>
-  </p>
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=lyes-sefiane&theme=flat&column=8&theme=flat&no-frame=true)](https://github.com/lyes-sefiane/github-profile-trophy)
 
   ## GitHub Stats / Top Languages
 
