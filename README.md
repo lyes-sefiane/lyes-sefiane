@@ -19,7 +19,8 @@
   </div>
 
   ## About Me
-  <p>Of <a href="https://drive.google.com/file/d/1HzOTDT4hrelHlvfMTe-rifpWcx39zinb/view?usp=sharing" target="_blank">Algerian Nationality</a> and <a href="https://drive.google.com/file/d/12dh_p6dAjBZSimROL9dcw-bLXMYd6yrV/view?usp=drive_link" target="_blank">Canadian Citizenship</a>, Graduated from Two Separate Higher Education Institutions in France : Grande École et <a href="https://www.dauphine-alumni.org/fr/cv/lyes-sefiane/dauphine/2014" target="_blank">Université Paris Dauphine-PSL</a> ( Dauphine Compus & AgroParisTech ) in 2014 and <a href="https://www.univ-paris8.fr/" target="_blank">Université Paris 8 Vincennes Saint-Denis</a> in 2012 with 02 Master's degree in Computer Science ( Cum Laude honor ) after being Graduated from <a href="https://www.ummto.dz/" target="_blank">Université Mouloud Mammeri de Tizi-Ouzou</a> ( Algeria ) in 2010 with a Bachelor of Computer Science - BCompSc ( Cum Laude honor ). 
+  Lyes SEFIANE (born on August 30th, 1988 in Tizi-Ouzou, Algeria) is an <a href="https://drive.google.com/file/d/1HzOTDT4hrelHlvfMTe-rifpWcx39zinb/view?usp=sharing" target="_blank">Algerian</a>-<a href="https://drive.google.com/file/d/12dh_p6dAjBZSimROL9dcw-bLXMYd6yrV/view?usp=drive_link" target="_blank">Canadian</a> (Dual Citizen) Senior Software Engineer residing in <a href="https://maps.app.goo.gl/DyicXDprhspQdiKXA">Ottawa</a>, the capital city of Canada (Ottawa, ON). Graduated from Two Separate Higher Education Institutions in France : Grande École and <a href="https://www.dauphine-alumni.org/fr/cv/lyes-sefiane/dauphine/2014" target="_blank">Université Paris Dauphine-PSL</a> (Dauphine Campus and AgroParisTech) in 2014 and <a href="https://www.univ-paris8.fr/" target="_blank">Université Paris 8 Vincennes Saint-Denis</a> in 2012 with 02 distinct Master's degree in Computer Science (Fairly Good - Honors) after being Graduated from <a href="https://www.ummto.dz/" target="_blank">Université Mouloud Mammeri de Tizi-Ouzou</a> (Algeria) in 2010 with a Bachelor's degree in Computer Science (Fairly Good - Honors). 
+    
   <p><strong>8+ years experience</strong> developing software using the Java ecosystem technologies such as           
   <a href="https://drive.google.com/file/d/1piHjMizqSBvIhxeB9qCPgHAnV3hJtzTM/view?usp=sharing" target="_blank">Java 8+</a>, 
   <a href="https://drive.google.com/file/d/1_hCAitNjtv90Bv1HnrzX3qJGLjMw2M3q/view?usp=sharing" target="_blank">Spring Framework 6+</a>, 
@@ -32,9 +33,20 @@
   to develop
   <a href="https://whatfix.com/blog/desktop-application/" target="_blank">Desktop</a>,
   <a href="https://drive.google.com/file/d/17bJ2TJOIoKYa8ns4kWrjwqM6nv_Spp_1/view?usp=sharing" target="_blank">RESTful Webservices</a>, 
-  and <a href="https://microservices.io/">Microservices</a> by applying <a href="https://drive.google.com/file/d/1kZ9n1LEIaIUBzZyyza2tMoxcmlS147_A/view?usp=sharing" target="_blank">Agile Scrum methodology</a>. <br/><br/>  
-    
-  Please refer to my <a href="https://ca.linkedin.com/in/lyes-sefiane" target="_blank">LinkedIn</a> and <a href="https://github.com/lyes-sefiane" target="_blank">GitHub</a> profiles for more information.</p></p> 
+  and <a href="https://microservices.io/">Microservices</a> by applying <a href="https://drive.google.com/file/d/1kZ9n1LEIaIUBzZyyza2tMoxcmlS147_A/view?usp=sharing" target="_blank">Agile Scrum methodology</a>. Please refer to my <a href="https://ca.linkedin.com/in/lyes-sefiane" target="_blank">LinkedIn</a> and <a href="https://github.com/lyes-sefiane" target="_blank">GitHub</a> profiles for more information.</p></p>
+
+  After 5.4 amazing years developing a JavaFX Desktop Software ( NAVA ) at <a href="https://en.wikipedia.org/wiki/Ciena">Ciena Corporation</a> for the Windows platforms using Java 11, JavaFx/OpenJFX and Spring Core Framework as a full time employee dedicated to the Optical Networking domain (reporting to the Director Service Innovation R&D at <a href="https://en.wikipedia.org/wiki/Ciena">Ciena Corporation</a>) to aid the Ciena's network engineers on their daily tasks, the NAVA project came to an end, successfully completed and fully delivered (including digital signature). My last employment day at <a href="https://en.wikipedia.org/wiki/Ciena">Ciena Corporation</a> was July 29th, 2022 (<a href="https://drive.google.com/file/d/1BnjgDKFDwMiCZn5dc0L1Ui_25WWP7ab9/view?usp=sharing" target="_blank">Verification of Employment at Ciena Corporation</a>).
+
+  ## Profile
+  <ul>
+    <li>8+ year's experience developing software using Java ecosystem.</li>
+    <li>3 year's experience leading the software development team using Agile Scrum methodology.</li>
+    <li>Experience building and designing RESTful Web Services with Spring Framework 6+, JUnit, Redis, PostgreSQL, MongoDB, Docker, Postman, Openapi/Swagger, Apache Kafka.</li>
+    <li>Experience in use of standard SCM tools (Git) and build automation tools (Maven).</li>
+    <li>Experience working with remote teams in different time zones (Canada, USA, UK, India).</li>
+    <li>Hands-on DevOps practices (automation and continuous delivery) using GitHub Actions, Snyk, SonarQube, DockerHub, Firebase.</li>
+  </ul>  
+
 
   ## 🏆 Github Profile Trophy
   
