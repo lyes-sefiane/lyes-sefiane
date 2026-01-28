@@ -48,10 +48,10 @@ As <a href="https://drive.google.com/file/d/1ZFE8EHSwM2NZnp4pd2QSYdXrZNnNiiO_/vi
   ![Trophy](https://github-trophies.vercel.app/?username=lyes-sefiane)
   
   ## GitHub Stats / Top Languages
-
+  
   <div>
-    <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=lyes-sefiane&show_icons=true&theme=flat" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyes-sefiane&show_icons=true&layout=compact&theme=flat" />
+    <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=lyes-sefiane&show_icons=true&theme=ambient_gradient" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyes-sefiane&show_icons=true&layout=compact&theme=ambient_gradient" />
   </div>
 
   ## 🛠 Technology Stack
