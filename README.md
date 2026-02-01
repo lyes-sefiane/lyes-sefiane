@@ -38,17 +38,16 @@ After more than a year as President of IT-DMSIC Corporation (<a href="https://ww
 
 As <a href="https://drive.google.com/file/d/1ZFE8EHSwM2NZnp4pd2QSYdXrZNnNiiO_/view" target="_blank">Algerian</a>, Native <a href="https://dpul.princeton.edu/oral-history-nes/feature/who-are-the-amazigh" target="_blank">Amazigh</a>, Native <a href="https://en.wikipedia.org/wiki/Kabyle_people" target="_blank">Kabyle</a> and <a href="https://www.canada.ca/en/immigration-refugees-citizenship/services/permanent-residents/status.html" target="_blank">Permanent Resident of Canada</a>, I worked at <a href="https://en.wikipedia.org/wiki/Ciena">Ciena Corporation</a> (a U.S. optical networking and software company based in Hanover, Maryland) for more than 05 years as full time employee to engineering official <a href="https://en.wikipedia.org/wiki/Ciena">Ciena Corporation</a>'s desktop software products named <strong>NAVA</strong> and <strong>NAVA Collector Agent</strong> available for the <a href="https://www.microsoft.com/en-us/windows" target="_blank">Windows platforms</a> as <a href="https://hiring.monster.com/resources/job-descriptions/computer/senior-software-engineer/" target="_blank">Software Engineer 3</a> and <a href="https://www.scrum.org/resources/what-is-a-product-owner" target="_blank">Product Owner</a>, written with <strong>Java 11</strong>, <strong>JavaFx/OpenJFX</strong> and <strong>Spring Core</strong> dedicated to the <a href="https://www.sciencedirect.com/topics/engineering/optical-telecommunication" target="_blank">Optical Telecommunication</a> domain to aid the <a href="https://en.wikipedia.org/wiki/Ciena">Ciena Corporation</a>'s telecommunications engineers on their daily tasks. The NAVA project came to an end on December 2021, successfully completed and fully delivered (including digital signature).
 
-## Profile
+  ## Profile
   <ul>
-    <li>8+ year's experience developing software using Java ecosystem.</li>
-    <li>3 year's experience leading the software development team using Agile Scrum methodology.</li>
-    <li>Experience building and designing RESTful Web Services with Spring Framework 6+, JUnit, Redis, PostgreSQL, MongoDB, Docker, Postman, Openapi/Swagger, Apache Kafka.</li>
-    <li>Experience in use of standard SCM tools (Git) and build automation tools (Maven).</li>
-    <li>Experience working with remote teams in different time zones (Canada, USA, UK, India).</li>
-    <li>Hands-on DevOps practices (automation and continuous delivery) using GitHub Actions, Snyk, SonarQube, DockerHub, Firebase.</li>
-  </ul>  
+    <li>8.5 years’ experience designing and engineering software using Java, JavaFX, RESTful Web Services, Spring Framework, JUnit, Redis, PostgreSQL, MongoDB, Docker, Postman, Openapi/Swagger, Apache Kafka, TL1, Git, Maven, Agile Scrum methodology.</li>
+    <li>Experience with DevOps practices using GitHub Actions, Snyk, SonarQube, DockerHub, and Firebase.</li>
+  </ul>
 
-
+  ## Resume
+  
+  Mr. Lyes SEFIANE Resume & Cover Letter is available to <a href="https://drive.google.com/file/d/1bkq8SZ7Ja_p5DxuL6NW0Oh3HfMPkLwu4/view?usp=sharing" target="_blank">Download</a>.
+  
   ## 🏆 Github Profile Trophy
   
   ![Trophy](https://github-trophies.vercel.app/?username=lyes-sefiane)
